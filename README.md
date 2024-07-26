@@ -1,6 +1,7 @@
 ## Hello there !!!!! 👋
 
-⚡ Fun fact: I give strange name to every document of my project !!
+Rules 1 : Don't talk to me before my second cup of tea
+Rules 2 :  I don't drink tea
 <!--
 **Sixtaan/Sixtaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

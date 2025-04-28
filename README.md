@@ -1,8 +1,11 @@
 ## Hello there !!!!! 👋
 
-Rules 1 : Don't talk to me before my second cup of tea
+Avec l'entrianement d'IA et le machine learning vous devez garder a l'esprit :
+"Il ne suffit pas de savoir cliquer sur 'train'. Il faut comprendre ce qu'on entraîne, comment on l'entraîne, et surtout pourquoi il faut l'améliorer."
 
-Rules 2 :  I don't drink tea
+With AI training and machine learning, you must always keep in mind::
+"It is not enough to know how to click on 'train'. One must understand what is being trained, how it is being trained, and above all, why it needs to be improved."
+
 <!--
 **Sixtaan/Sixtaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

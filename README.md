@@ -1,5 +1,6 @@
 ## Hello there !!!!! 👋
-
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Sixtaan&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Sixtaan&hide_border=true" />
 Avec l'entrianement d'IA et le machine learning vous devez garder a l'esprit :
 "Il ne suffit pas de savoir cliquer sur 'train'. Il faut comprendre ce qu'on entraîne, comment on l'entraîne, et surtout pourquoi il faut l'améliorer."
 
